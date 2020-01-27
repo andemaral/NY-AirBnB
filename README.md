@@ -1,1 +1,1 @@
-This proyect is mainly focusing on price prediction with some EDA and model tunning.
+This proyect is mainly focused on price prediction with some EDA and model tunning.
